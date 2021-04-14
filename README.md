@@ -5,6 +5,8 @@ The Goal:
   __________________________________________________________________________________________________________________
   Embeddings.ipynb - I used jupyter notebook to run snippets of the code to avoid loading the entire dataframe each time, and I also graphed the sound embeddings to show the relation between the different sound categories even though they're only small 1 second snippets of sound.
   
+  ![image](https://user-images.githubusercontent.com/55637647/114767528-06224180-9d68-11eb-9658-4cdc23d5baaa.png)
+
   soundEmbeddings.py - I wrote this program to embed each sound file in the dataframe (around 8000) and save them each in their respective organized "folds" in a new folder as embedded sound files. The main challenge with this was optimizing the code so that it was fast and didn't too long to embed all of the files.
   
   
